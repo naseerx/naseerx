@@ -82,7 +82,7 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 -----
 Credits: [Muhammad Naseer](https://github.com/naseerx)
 
-Last Edited on: 30/09/2021
+Last Edited on: 12/12/2022
 
 
 
