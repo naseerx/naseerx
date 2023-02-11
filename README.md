@@ -70,6 +70,38 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
   
 </div>
 
+  <div align=center>
+ ### ✍️ Random Dev Quote
+ 
+ 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+   </div>
+
+
+
+  
+## Country Ranking on StarDev
+<h3 align="left"></h3>
+ 
+  <div align=center>
+
+[![Check out Muhammad Naseers's profile on stardev.io](https://stardev.io/developers/naseerx/badge/languages/country.svg)](https://stardev.io/developers/naseerx)
+
+ </div>
+ 
+## Local (Peshawar) Ranking on StarDev
+<h3 align="left"></h3>
+  
+  <div align=center>
+ 
+[![Check out Muhammad Naseers's profile on stardev.io](https://stardev.io/developers/naseerx/badge/languages/locality.svg)](https://stardev.io/developers/naseerx)
+
+ <div align=center>
+
+  
+ 
+ 
 
 ### Github Activity: 🎆
  
@@ -82,7 +114,7 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 -----
 Credits: [Muhammad Naseer](https://github.com/naseerx)
 
-Last Edited on: 22/12/2022
+Last Edited on: 11/02/2023
 
 
 
