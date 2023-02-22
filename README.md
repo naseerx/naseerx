@@ -69,10 +69,11 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naseerx&theme=shades-of-purple)](https://git.io/streak-stats)
   
 </div>
+ 
+ 
+  ### ✍️ Random Dev Quote
 
   <div align=center>
- ### ✍️ Random Dev Quote
- 
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -82,8 +83,7 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 
   
 ## Country Ranking on StarDev
-<h3 align="left"></h3>
- 
+  
   <div align=center>
 
 [![Check out Muhammad Naseers's profile on stardev.io](https://stardev.io/developers/naseerx/badge/languages/country.svg)](https://stardev.io/developers/naseerx)
@@ -97,20 +97,23 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
  
 [![Check out Muhammad Naseers's profile on stardev.io](https://stardev.io/developers/naseerx/badge/languages/locality.svg)](https://stardev.io/developers/naseerx)
 
- <div align=center>
-
-  
+   
+  ### Github Activity: 🎆
  
  
-
-### Github Activity: 🎆
- 
+   <div align=center>
+    
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=naseerx&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
  
+    
  ## 🐍 Contribution Snake:
+ 
+   <div align=center>
+
+ 
 ![Snake animation](https://github.com/codersangam/codersangam/blob/output/github-contribution-grid-snake.svg)
 
-
+ </div>
 -----
 Credits: [Muhammad Naseer](https://github.com/naseerx)
 
