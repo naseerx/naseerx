@@ -105,7 +105,7 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 
 ### Github Activity: 🎆
  
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=naseerx&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=naseerx&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
  
  ## 🐍 Contribution Snake:
 ![Snake animation](https://github.com/codersangam/codersangam/blob/output/github-contribution-grid-snake.svg)
@@ -114,7 +114,7 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 -----
 Credits: [Muhammad Naseer](https://github.com/naseerx)
 
-Last Edited on: 11/02/2023
+Last Edited on: 22/02/2023
 
 
 
