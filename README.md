@@ -12,6 +12,9 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 <a align="center">
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/naseerx?label=Github%20followers&style=for-the-badge" >
   </a> 
+  
+  <a href="mailto:someone@somewhere.com">email</a>
+
 
 ### How to reach me: 
 <a href="mailto: muhammadnaseer.dev@gmail.com">
