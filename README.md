@@ -1,4 +1,4 @@
-![logo](https://github.com/naseerx/naseerx/blob/5c8790ea645e5fe60adca2c257d55f06767b35cf/1.png)
+![logo](https://github.com/naseerx/naseerx/blob/main/1.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Naseer, Nice to see you</h1>
 
