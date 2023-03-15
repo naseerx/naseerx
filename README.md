@@ -1,4 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
+![logo](https://github.com/AbdulRehmanGHub/AbdulRehmanGHub/blob/5c8790ea645e5fe60adca2c257d55f06767b35cf/GitHub%20banner.jpg)
+
+<h1 align="center">Hi 👋, I'm Muhammad Naseer, Nice to see you</h1>
 
 ### :man_technologist: About Me :
 
@@ -119,7 +121,7 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 -----
 Credits: [Muhammad Naseer](https://github.com/naseerx)
 
-Last Edited on: 22/02/2023
+Last Edited on: 16/03/2023
 
 
 
