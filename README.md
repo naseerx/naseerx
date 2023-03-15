@@ -1,6 +1,6 @@
 ![logo](https://github.com/naseerx/naseerx/blob/main/1.png)
 
-<h1 align="center">Hi 👋, I'm Muhammad Naseer, Nice to see you</h1>
+<h1 align="center">Hi 👋, Nice to see you</h1>
 
 ### :man_technologist: About Me :
 
