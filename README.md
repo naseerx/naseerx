@@ -19,7 +19,7 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 
 ### How to reach me: 
 <a href="mailto: muhammadnaseer.dev@gmail.com">
-<img src="https://img.shields.io/badge/-muhammadnaseer.dev@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/its_naseerz/">   <img src="https://img.shields.io/badge/@naseerz_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/naseerz/"><img src="https://img.shields.io/badge/Muhammad Naseer-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://naseerkhan.me/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-muhammadnaseer.dev@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/its_naseerz/">   <img src="https://img.shields.io/badge/@naseerz_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/naseerx/"><img src="https://img.shields.io/badge/Muhammad Naseer-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://naseerkhan.me/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
