@@ -23,16 +23,15 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 
 ### Current Status Quo:
 
+- 🔭 I'm actively engaged as a Software Engineer, passionately contributing to the realm of Flutter for crafting robust hybrid applications.
 
-- :telescope: I’m working as a Software Engineer and contributing to Flutter for building hybri applications.
+- 🌱 My current journey involves a deep dive into the art of Flutter Application Development, where every line of code is a step towards mastery.
 
-- 🌱 I’m currently learning Flutter Application Development
+- 💞️ An enthusiastic collaborator at heart, I seek synergistic opportunities that unite talents from all corners of the coding cosmos. Open to forging impactful partnerships with anyone who shares a passion for innovation.
 
-- 💞️ I’m looking to collaborate With Everyone ❤️
+- 🔍 My sights are set on the horizon of thriving career prospects within the dynamic landscape of the IT industry, eagerly seeking avenues where I can apply my skills and knowledge to redefine possibilities.
 
-- 🔍 I’m looking for career opportunities in the <strong>IT</strong> industry
-- 💬 Feel free to discuss with me about <strong>Flutter, App Development and Whatever you want about IT</strong>
-
+- 💬 I thrive on conversations that revolve around the intricate dance of Flutter, App Development, and all things related to the captivating realm of Information Technology. Feel free to engage in insightful discussions, for knowledge knows no boundaries.
 
 ### :hammer_and_wrench: Languages and Tools :
 
