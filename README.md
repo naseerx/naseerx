@@ -1,4 +1,3 @@
-![logo](https://github.com/naseerx/naseerx/blob/main/1.png)
 
 <h1 align="center">Hi 👋, Nice to see you</h1>
 
