@@ -1,3 +1,5 @@
+![logo](https://github.com/naseerx/naseerx/blob/main/banner.jpg)
+
 
 <h1 align="center">Hi 👋, Nice to see you</h1>
 
