@@ -112,19 +112,9 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=naseerx&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
  
     
- ## 🐍 Contribution Snake:
- 
-   <div align=center>
-
- 
-![Snake animation](https://github.com/codersangam/codersangam/blob/output/github-contribution-grid-snake.svg)
-
- </div>
------
-    
 Credits: [Muhammad Naseer](https://github.com/naseerx)
 
-Last Edited on: 19/11/2023
+Last Edited on: 01/06/2024
 
 
 
