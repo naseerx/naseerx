@@ -1,4 +1,3 @@
-![logo](https://github.com/naseerx/naseerx/blob/main/banner.jpg)
 
 
 <h1 align="center">Hi 👋, Nice to see you</h1>
@@ -104,20 +103,9 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 [![Check out Muhammad Naseers's profile on stardev.io](https://stardev.io/developers/naseerx/badge/languages/locality.svg)](https://stardev.io/developers/naseerx)
 
    
-  ### Github Activity: 🎆
- 
- 
-   <div align=center>
-    
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=naseerx&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
- 
-
-[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/naseerx)
-
     
 Credits: [Muhammad Naseer](https://github.com/naseerx)
 
-Last Edited on: 25/09/2024
 
 
 
