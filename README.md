@@ -68,8 +68,9 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
  
 ### Github Streak: ❤️‍🔥 
  <div align=center>
+
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=naseerx)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naseerx&theme=shades-of-purple)](https://git.io/streak-stats)
 
  
   
