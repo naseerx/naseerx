@@ -76,16 +76,6 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
   
 </div>
  
- 
-  ### ✍️ Random Dev Quote
-
-  <div align=center>
- 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-   </div>
-
-
 
   
 ## Country Ranking on StarDev
