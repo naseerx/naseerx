@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, Nice to see you</h1>
+<h1 align="center">Hello 🤗 👋, Nice to see you</h1>
 
 ### :man_technologist: About Me :
 
