@@ -21,8 +21,8 @@
 
 ## 👨‍💻 About Me
 🚀 CEO @ OpenTech | Flutter Developer (4+ years)
-📱 15+ apps shipped on App Store & Play Store
-👥 300K+ users across my portfolio
+📱 20+ apps shipped on App Store & Play Store
+👥 700K+ users across my portfolio
 🇵🇰 Based in Peshawar, Pakistan
 
 I build polished, production-grade Flutter apps — from concept to launch. My work spans AI-powered tools, Islamic lifestyle apps, and consumer utilities used by hundreds of thousands worldwide.
@@ -32,9 +32,8 @@ I build polished, production-grade Flutter apps — from concept to launch. My w
 ## 🚀 Featured Apps
 
 ### 📔 Daiary — Your Book with AI
-> Flagship journaling app · **290K+ downloads** · **$2K+ revenue**  
+> Flagship journaling app · **700K+ downloads** · **€14K+ ARR**
 > Offline-first, secure diary entries, mood tracking & AI-powered insights
-
 <a href="https://apps.apple.com/us/app/daiary-book/id6475233413">
   <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
 </a>
